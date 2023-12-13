@@ -1,4 +1,4 @@
-Sentiment Analysis Project
+Sentiment Analysis Project (Python)
 Overview
 This project performs sentiment analysis on text using the transformers library for machine learning-based sentiment analysis and the textblob library for rule-based sentiment analysis. The script combines the results from both methods to provide a more nuanced sentiment analysis.
 
